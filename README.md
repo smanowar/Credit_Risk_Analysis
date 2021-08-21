@@ -86,5 +86,7 @@ In summary, the results for the Easy Ensemble Classifier method are:
 - Recall: 94%
 
 ## Summary
+The goal of the bank is to minimize the amount of clients that default on their credit product. Therefore, it would be preferrable that a low-risk client is denied (a false negative) versus that situation a high-risk client is approved (false positive). 
+
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning
