@@ -5,47 +5,60 @@
 The purpose of this analysis is to predict the status of loan applications using various algorithms from the imbalanced-learn and scikit-learn libraries including: 
 - Oversampling Methods (Naive Random Oversampling, SMOTE Oversampling)
 - Undersampling Methods (Cluster Centroids)
-- SMOTEEN
+- Combonation Methods (SMOTEEN)
 - and Ensemble Learners (Balanced Random Forest Classifier, and Easy Ensemble Classifier)
  
-Data is taken from *LoanStats_2019Q1.csv*, and analysis was performed using Jupyter Notebook.
+Data was taken from *LoanStats_2019Q1.csv*, and analysis was performed using Jupyter Notebook.
 
 ## Results
 
 ### Oversampling Methods
 *Naive Random Oversampling*<br>
+<p align="left"><img src=https://github.com/smanowar/Credit_Risk_Analysis/blob/main/images/naive_random_sampling.PNG?raw=true> </p>
+
 - Balanced Accuracy Score:
 - Precision:
 - Recall: 
 
 <br>*SMOTE Oversampling*<br>
+<p align="left"><img src=https://github.com/smanowar/Credit_Risk_Analysis/blob/main/images/SMOTE.PNG?raw=true></p> 
+
 - Balanced Accuracy Score:
 - Precision:
 - Recall: 
 
 ### Undersampling Methods
 *Cluster Centroids*<br>
+<p align="left"><img src=https://github.com/smanowar/Credit_Risk_Analysis/blob/main/images/undersampling.PNG?raw=true> </p>
+
 - Balanced Accuracy Score:
 - Precision:
 - Recall: 
 
-### SMOTEEN 
+### Combonation Methods
+*SMOTEEN*<br> 
+<p align="left"><img src=https://github.com/smanowar/Credit_Risk_Analysis/blob/main/images/SMOTEEN.PNG?raw=true></p>
+
 - Balanced Accuracy Score:
 - Precision:
 - Recall: 
 
 ### Ensemble Learners
 *Balanced Random Forest Classifier*<br>
+<p align="left">
+<img src=https://github.com/smanowar/Credit_Risk_Analysis/blob/main/images/random_forest.PNG?raw=true> 
+</p>
 - Balanced Accuracy Score:
 - Precision:
 - Recall: 
 
 <br>*Easy Ensemble Classifier*<br>
+<p align="left">
+<img src=https://github.com/smanowar/Credit_Risk_Analysis/blob/main/images/easy_ensemble.PNG?raw=true> 
+</p>
 - Balanced Accuracy Score:
 - Precision:
 - Recall: 
-
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 ## Summary
 
