@@ -11,7 +11,7 @@ The purpose of this analysis is to predict the status of loan applications using
 Data was taken from *LoanStats_2019Q1.csv*, and analysis was performed using Jupyter Notebook.
 
 ## Results
-Using Jupyter Notebook, analysis for the six different algorithms were calculated below. Results were rounded to two decimal places.
+Using Jupyter Notebook, analysis for the six different algorithms were calculated below. 
 
 ### Oversampling Methods
 
